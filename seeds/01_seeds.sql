@@ -17,4 +17,4 @@ VALUES('2018-09-11','2018-09-26',1,1),
 INSERT INTO users (name, email, password )
 VALUES('Eva Stanley','sebastianguerra@ymail.com','$2a$10$FB'),
 ('Louisa Meyer','jacksonrose@hotmail.com','BOAVhpuLvpOREQVmvmezD4E'),
-('Dominic Parks','victoriablackwell@outlook.com','.JBIDRh70tGevYzYzQgFId2u');
+('Dominic Parks','victoriablackwell@outlook.com','.JBIDRh70tGevYzYzQgFId2u.');
